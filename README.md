@@ -1,6 +1,9 @@
 # FZ_Animations
 Custom animations for Flipper Zéro Device
 
+<p align="center"> <img src="https://i.postimg.cc/fybb82KG/Haseo.png" width="750" title="hover text"> 
+
+
 
 - Link to Kuronons Graphics : [Kuronons Github](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics)
 
