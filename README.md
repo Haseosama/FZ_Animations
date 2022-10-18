@@ -8,7 +8,7 @@ Custom animations for Flipper Zéro Device
 
 - Link to Talking-Sasquach Graphics : [Talking-Sasquach Github](https://github.com/skizzophrenic/Talking-Sasquach)
 
-- Link to StopOxy Graphics : [StopOxy Github](https://github.com/stopoxy/FZAnimations)
+- Link to Stop Oxy Graphics : [Stop Oxy Github](https://github.com/stopoxy/FZAnimations)
 
 Flipper Databases:
 
