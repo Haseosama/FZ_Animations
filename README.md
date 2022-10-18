@@ -8,6 +8,8 @@ Custom animations for Flipper Zéro Device
 
 - Link to Talking-Sasquach Graphics : [Talking-Sasquach Github](https://github.com/skizzophrenic/Talking-Sasquach)
 
+- Link to StopOxy Graphics : [StopOxy Github](https://github.com/stopoxy/FZAnimations)
+
 Flipper Databases:
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
