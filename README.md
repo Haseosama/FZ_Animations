@@ -55,6 +55,7 @@ Animation Preview:
  - [Seiya](https://github.com/Haseosama/FZ_Animations/blob/main/Japanimation/Haseo_Seiya_128x64/Readme.md)
  - [Sharingan](https://github.com/Haseosama/FZ_Animations/blob/main/Japanimation/Haseo_Sharingan_128x64/Readme.md)
  - [Sogeking](https://github.com/Haseosama/FZ_Animations/blob/main/Japanimation/Haseo_Sogeking_128x64/Readme.md)
+ - [Bleach](https://github.com/Haseosama/FZ_Animations/blob/main/Japanimation/Haseo_Bleach_128x64/Readme.md)
   
   Movies:
   
